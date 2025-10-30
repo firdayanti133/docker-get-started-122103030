@@ -34,7 +34,7 @@ export function AddItemForm({ onNewItem }) {
                     value={newItem}
                     onChange={(e) => setNewItem(e.target.value)}
                     type="text"
-                    placeholder="New Item"
+                    placeholder="NIM Anda 122103033. Ini adalah perubahan ketiga: Placeholder Text."
                     aria-label="New item"
                 />
                 <Button
