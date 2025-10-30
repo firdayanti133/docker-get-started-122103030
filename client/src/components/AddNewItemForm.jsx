@@ -39,7 +39,7 @@ export function AddItemForm({ onNewItem }) {
                 />
                 <Button
                     type="submit"
-                    variant="success"
+                    variant="succeess"
                     disabled={!newItem.length}
                     className={submitting ? 'disabled' : ''}
                 >
